@@ -1,0 +1,101 @@
+.grey {
+		background-color: #DCDCDC
+}
+
+.card-block{
+	border:2px solid grey;
+}
+
+.img-galaxy {
+	width:100%;
+	border-radius: 50%;
+	padding:30px;
+}
+
+.blue{
+	background-color: #318C84;
+}
+
+.progress-label {
+    float: left;
+    margin-right: 1em;
+    margin-top: -3px;
+    font-size: 19px;
+}
+
+.purple{
+	background-color: #A0CCCC;
+}
+
+.darkgrey{
+	background-color: #425E61
+}
+
+.card-footer{
+	text-align: center;
+	font-size: 25px;
+	color: #0C4543;
+}
+
+.navbar{
+	background: grey;
+}
+
+.navbar-brand{
+	float:left;
+}
+.bg-black{
+	background-color: #222;
+}
+
+.navbar {
+	color: white;
+	position: fixed;
+	width: 100%;
+    z-index: 1;
+}
+
+.navbar-items {
+	margin: 0 15px;
+	display: inline-block;
+	font-size: 15px;
+}
+
+.navbar-brand {
+	padding: 0;
+	font-size: 25px;
+}
+
+.right {
+	position: absolute;
+	right: 15px;
+	top:10px;
+}
+
+.Submitbutton {
+	background-color:blue;
+}
+
+.card-text{
+	text-align: center;
+}
+
+.intro {
+	text-align: center;
+}
+
+.lightgrey {
+	background color: #BECBE3;
+}
+
+body{
+	background-image:url(../img/white2.jpg);
+	background-size:cover; 
+}
+
+.top-row{
+	margin:80px 0 0 0;
+}
+.map{
+	width:100%;
+}
